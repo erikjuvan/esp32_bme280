@@ -1,0 +1,12 @@
+UseTab: Never
+IndentWidth: 4
+AccessModifierOffset: -4
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+DerivePointerAlignment: false
+PointerBindsToType: true
+IndentCaseLabels: false
+ColumnLimit: 0
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+BreakConstructorInitializers: AfterColon

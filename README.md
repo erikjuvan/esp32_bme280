@@ -1,0 +1,1 @@
+ESP32 via SPI to BME280 sensor and sending data via UART.
